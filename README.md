@@ -17,3 +17,12 @@ This repository stores **World Record telemetry files** recorded from **Gran Tur
   - If a new record was set very late, it may be missing.  
   - If the fastest driver did not share their replay, it cannot be recorded.  
 - The objective is to capture the **fastest lap available with a shared replay**. 
+
+## Recordings
+
+The list below is sorted by **track name**. Each entry links directly to the `.delta` file.
+
+### Trial Mountain Reverse
+| Group | Car       | Lap Time | Driver   | Link |
+|-------|-----------|----------|----------|------|
+| Gr.3  | GT-R NISMO GT3 '18 | 1:51.205 | [IGTSH_Szotyi42x](https://www.dg-edge.com/players/IGTSH_Szotyi42x) | [Download](deltas/trial_mountain_reverse/gr3_amg_1-50-809.delta) |
